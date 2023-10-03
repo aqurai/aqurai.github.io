@@ -44,7 +44,7 @@ IROS 2016 \
    
 
 
-#### PhD Thesis
+# PhD Thesis
 
 **Cooperative Multi-Robot Systems for Aquatic Environmental Sensing** \
 Anwar Quraishi, PhD Thesis\
